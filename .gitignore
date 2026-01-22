@@ -1,0 +1,25 @@
+# Dependências
+node_modules/
+package-lock.json
+
+# Variáveis de ambiente
+.env
+.env.local
+.env.*.local
+
+# Arquivos temporários
+*.log
+*.tmp
+.DS_Store
+
+# Arquivos de desenvolvimento
+md/
+/md
+mockup.txt
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
