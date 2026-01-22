@@ -1,6 +1,6 @@
 # Solis Inverters API
 
-Integração com a API Solis Cloud para monitoramento de inversores solares.
+Este projeto realiza a integração completa com a API oficial da SolisCloud, permitindo a coleta, normalização e consumo de dados de inversores solares Solis de forma segura e escalável.
 
 ## 📁 Estrutura do Projeto
 
